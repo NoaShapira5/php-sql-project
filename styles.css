@@ -1,0 +1,81 @@
+.menu{
+    margin-top: 50%;
+  }
+  
+  body.left {
+    font-family: cursive;
+    background-color: LightSalmon;
+  }
+  
+  body.center {
+    font-family: cursive;
+    background-color:rgb(231, 231, 231);
+  }
+  
+  /* The navigation menu links */
+  .menu a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #030202;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  table {
+    background-color: rgb(231, 231, 231);
+    margin-left:auto; 
+    margin-right:auto;
+    color: black;
+    text-align: center;
+    word-spacing: normal;
+    border: 1px solid rgb(53, 184, 162);
+    border-collapse: collapse;
+    width: 50%;
+  }
+  
+  th, td {
+    border-bottom: 1px solid rgb(53, 184, 162);
+    color: black;
+    text-align: center;
+    word-spacing: normal;
+    padding: 10px 0;
+    /* border-left: 1px solid rgb(53, 184, 162); */
+  }
+
+  tr:hover {
+    background-color: coral;
+  }
+  
+  /* When you mouse over the navigation links, change their color */
+  .menu a:hover {
+    color: #ffffff;
+  }
+  
+  .shifts {
+    font-family: cursive;
+    background-color:rgb(231, 231, 231);
+  }
+
+  .orders {
+    font-family: cursive;
+    background-color:rgb(231, 231, 231);
+  }
+
+  body.post {
+    font-family: cursive;
+    background-color:rgb(231, 231, 231);
+    text-align: center;
+  }
+  body.assignShift {
+    font-family: cursive;
+    background-color:rgb(231, 231, 231);
+    text-align: center;
+  }
+
+  p.orderNum {
+    font-size:120%;
+    text-decoration: underline;
+  }
+
+
