@@ -1,6 +1,6 @@
 # php-sql-project
 
-During Information Systems and Databases course, we build resturant website that uses Chef Express database.
+During Information Systems and Databases course, we built a restaurant website that uses Chef Express database.
 We use php (backend), sql, html and css.
 In order to open the website you should use xampp:
 1. Run the ChefExpress - SQL Server script
